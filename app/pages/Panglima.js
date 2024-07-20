@@ -83,7 +83,7 @@ const Panglima = () => {
                 </figcaption>
                 <img
                   className="w-60 lg:w-80 mx-auto -mb-7"
-                  src="https://raw.githubusercontent.com/Syafar44/assets/main/assets/image/LOGO%20GERAI%20PANGLIMA-01.png"
+                  src="assets/logo/LOGO-GERAI-PANGLIMA-02.jpg"
                 />
               </figure>
               <div className="grid grid-cols-2 mx-4 md:mx-10 lg:grid-cols-4 xl:grid-cols-5 gap-5">
@@ -91,13 +91,13 @@ const Panglima = () => {
                   <figure>
                     <img
                       className="h-56 scale-150"
-                      src="https://panglimaroqiiqu-group.co.id/wp-content/uploads/2024/06/ROTI-DURIAN-ORIGINAL-Copy.jpg"
+                      src="assets/produk/ROTI-DURIAN-ORIGINAL.jpg"
                       alt="Roti Durian Panglima"
                     />
                   </figure>
                   <div className="">
                     <h2 className="font-bold p-2 pt-2 lg:text-xl">
-                      Roti Durian Original
+                      ROTI DURIAN ORIGINAL
                     </h2>
                     <div className="card-actions justify-center my-2">
                       <Link
@@ -113,13 +113,13 @@ const Panglima = () => {
                   <figure>
                     <img
                       className="h-56 scale-150"
-                      src="https://panglimaroqiiqu-group.co.id/wp-content/uploads/2024/06/ROTI-DURIAN-ORIGINAL-Copy.jpg"
+                      src="assets/produk/ROTI-DURIAN-KEJU.jpg"
                       alt="Roti Durian Panglima"
                     />
                   </figure>
                   <div className="">
                     <h2 className="font-bold p-2 pt-2 lg:text-xl">
-                      Roti Durian Original
+                      ROTI DURIAN KEJU
                     </h2>
                     <div className="card-actions justify-center my-2">
                       <Link
@@ -135,13 +135,13 @@ const Panglima = () => {
                   <figure>
                     <img
                       className="h-56 scale-150"
-                      src="https://panglimaroqiiqu-group.co.id/wp-content/uploads/2024/06/ROTI-DURIAN-ORIGINAL-Copy.jpg"
+                      src="assets/produk/PIE-SUSU-COKLAT.jpg"
                       alt="Roti Durian Panglima"
                     />
                   </figure>
                   <div className="">
                     <h2 className="font-bold p-2 pt-2 lg:text-xl">
-                      Roti Durian Original
+                      PIE SUSU COKLAT
                     </h2>
                     <div className="card-actions justify-center my-2">
                       <Link
@@ -157,13 +157,13 @@ const Panglima = () => {
                   <figure>
                     <img
                       className="h-56 scale-150"
-                      src="https://panglimaroqiiqu-group.co.id/wp-content/uploads/2024/06/ROTI-DURIAN-ORIGINAL-Copy.jpg"
+                      src="assets/produk/BROWNIES-ALMOND.jpg"
                       alt="Roti Durian Panglima"
                     />
                   </figure>
                   <div className="">
                     <h2 className="font-bold p-2 pt-2 lg:text-xl">
-                      Roti Durian Original
+                      BROWNIES ALMOND
                     </h2>
                     <div className="card-actions justify-center my-2">
                       <Link
@@ -179,13 +179,13 @@ const Panglima = () => {
                   <figure>
                     <img
                       className="h-56 scale-150"
-                      src="https://panglimaroqiiqu-group.co.id/wp-content/uploads/2024/06/ROTI-DURIAN-ORIGINAL-Copy.jpg"
+                      src="assets/produk/BOLU-GULUNG.jpg"
                       alt="Roti Durian Panglima"
                     />
                   </figure>
                   <div className="">
                     <h2 className="font-bold p-2 pt-2 lg:text-xl">
-                      Roti Durian Original
+                      BOLU GULUNG
                     </h2>
                     <div className="card-actions justify-center my-2">
                       <Link
@@ -207,7 +207,7 @@ const Panglima = () => {
                 </figcaption>
                 <img
                   className="w-60 lg:w-80 mx-auto mb-8"
-                  src="https://raw.githubusercontent.com/Syafar44/assets/main/assets/image/LOGO%20GERAI%20PANGLIMA-01.png"
+                  src="assets/logo/LOGO-GERAI-PANGLIMA-02.jpg"
                 />
               </figure>
               <div className="grid grid-cols-2 mx-4 md:mx-10 lg:grid-cols-4 xl:grid-cols-5 gap-5">
@@ -215,7 +215,7 @@ const Panglima = () => {
                   <figure>
                     <img
                       className="h-56 scale-150"
-                      src="https://panglimaroqiiqu-group.co.id/wp-content/uploads/2024/06/Nas-Campur-Ayam-cabe-Hijau-Copy.jpg"
+                      src="assets\produk\Nas-Campur-Ayam-cabe-Hijau.jpg"
                       alt="Roti Durian Panglima"
                     />
                   </figure>
@@ -237,7 +237,7 @@ const Panglima = () => {
                   <figure>
                     <img
                       className="h-56 scale-150"
-                      src="https://panglimaroqiiqu-group.co.id/wp-content/uploads/2024/06/Nas-Campur-Ayam-cabe-Hijau-Copy.jpg"
+                      src="assets\produk\Nas-Campur-Ayam-cabe-Hijau.jpg"
                       alt="Roti Durian Panglima"
                     />
                   </figure>
@@ -259,7 +259,7 @@ const Panglima = () => {
                   <figure>
                     <img
                       className="h-56 scale-150"
-                      src="https://panglimaroqiiqu-group.co.id/wp-content/uploads/2024/06/Nas-Campur-Ayam-cabe-Hijau-Copy.jpg"
+                      src="assets\produk\Nas-Campur-Ayam-cabe-Hijau.jpg"
                       alt="Roti Durian Panglima"
                     />
                   </figure>
@@ -281,7 +281,7 @@ const Panglima = () => {
                   <figure>
                     <img
                       className="h-56 scale-150"
-                      src="https://panglimaroqiiqu-group.co.id/wp-content/uploads/2024/06/Nas-Campur-Ayam-cabe-Hijau-Copy.jpg"
+                      src="assets\produk\Nas-Campur-Ayam-cabe-Hijau.jpg"
                       alt="Roti Durian Panglima"
                     />
                   </figure>
@@ -303,7 +303,7 @@ const Panglima = () => {
                   <figure>
                     <img
                       className="h-56 scale-150"
-                      src="https://panglimaroqiiqu-group.co.id/wp-content/uploads/2024/06/Nas-Campur-Ayam-cabe-Hijau-Copy.jpg"
+                      src="assets\produk\Nas-Campur-Ayam-cabe-Hijau.jpg"
                       alt="Roti Durian Panglima"
                     />
                   </figure>
