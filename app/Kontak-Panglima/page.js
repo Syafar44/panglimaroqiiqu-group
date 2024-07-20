@@ -56,7 +56,7 @@ const KontakPanglima = () => {
       <section className="lg:hero mx-10 py-4 lg:py-10">
         <div className="hero-content lg:mr-36 flex-col lg:flex-row">
           <img
-            src="assets/LOGO-GERAI-PANGLIMA-02.jpg"
+            src="assets/logo/LOGO-GERAI-PANGLIMA-02.jpg"
             className="lg:max-w-sm items-center"
           />
           <div>
@@ -221,7 +221,7 @@ const KontakPanglima = () => {
             <figure>
               <img
                 className="xl:scale-[2]"
-                src="https://panglimaroqiiqu-group.co.id/wp-content/uploads/2024/06/foto-gallery-1.jpg"
+                src="assets/foto-gallery-1.jpg"
                 alt="Shoes"
               />
             </figure>
@@ -243,7 +243,7 @@ const KontakPanglima = () => {
             <figure>
               <img
                 className="xl:scale-[2]"
-                src="https://panglimaroqiiqu-group.co.id/wp-content/uploads/2024/06/foto-gallery-1.jpg"
+                src="assets/foto-gallery-1.jpg"
                 alt="Shoes"
               />
             </figure>

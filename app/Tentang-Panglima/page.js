@@ -5,11 +5,11 @@ const TentangPanglima = () => {
   return (
     <>
       <Navbar />
-      <div
+      <section
         className="hero mt-20 lg:mt-28 xl:mt-32"
         style={{
           backgroundImage:
-            "url(https://panglimaroqiiqu-group.co.id/wp-content/uploads/2024/06/tips-3.jpg)",
+            "url(assets/tips-3.jpg)",
         }}
       >
         <div className="hero-overlay bg-opacity-75 h-72 -mt-5 md:mt-0"></div>
@@ -27,13 +27,13 @@ const TentangPanglima = () => {
             </p>
           </div>
         </div>
-      </div>
+      </section>
       {/* Visi dan Misi */}
-      <div className="w-full">
+      <section className="w-full">
         <div className="lg:hero my-8 lg:my-20 mx-5 ">
           <div className="lg:hero-content flex-col lg:flex-row-reverse">
             <img
-              src="https://panglimaroqiiqu-group.co.id/wp-content/uploads/2024/06/img-tebtang-1.jpg"
+              src="assets/img-tebtang-1.jpg"
               className="lg:max-w-sm rounded-lg shadow-2xl"
             />
             <div>
@@ -83,19 +83,19 @@ const TentangPanglima = () => {
             </div>
           </div>
         </div>
-      </div>
+      </section>
       {/* Core Value */}
-      <div>
+      <section>
         <div
           className="lg:hero"
           style={{
             backgroundImage:
-              "url(https://panglimaroqiiqu-group.co.id/wp-content/uploads/2024/06/bg-tes-2.jpg)",
+              "url(assets/bg-tes-2.jpg)",
           }}
         >
           <div className="lg:flex lg:gap-10 lg:mr-60 flex-col lg:flex-row p-5">
             <img
-              src="https://panglimaroqiiqu-group.co.id/wp-content/uploads/2024/06/foto-gallery-1.jpg"
+              src="assets/foto-gallery-1.jpg"
               className="lg:max-w-sm rounded-lg shadow-2xl"
             />
             <div>
@@ -142,7 +142,7 @@ const TentangPanglima = () => {
             </div>
           </div>
         </div>
-      </div>
+      </section>
 
       <div className="hero mt-5 -mb-16">
         <div className="hero-content">

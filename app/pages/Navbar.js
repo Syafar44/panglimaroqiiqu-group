@@ -67,7 +67,7 @@ const Navbar = () => {
           <Link className="" href="/">
             <img
               className="h-10 lg:h-16 xl:h-20"
-              src="https://raw.githubusercontent.com/Syafar44/assets/main/assets/image/LOGO%20GERAI%20PANGLIMA-02.png"
+              src="assets/logo/LOGO-GERAI-PANGLIMA-02.jpg"
             />
           </Link>
         </div>

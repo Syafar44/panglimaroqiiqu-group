@@ -3,8 +3,8 @@ import Link from "next/link";
 const Panglima = () => {
   return (
     <>
-      <div className="hero h-72 mt-8 -mb-16 lg:-mb-5 lg:mt-28">
-        <div className="hero-content text-neutral-content text-center">
+      <section className="hero h-72 mt-8 -mb-16 lg:-mb-5 lg:mt-28">
+        <header className="hero-content text-neutral-content text-center">
           <div>
             <h1 className="text-3xl lg:text-6xl xl:text-6xl font-bold text-red-700">
               Gerai Panglima
@@ -13,11 +13,11 @@ const Panglima = () => {
               Oleh-Oleh, Bakery, Resto, caffee
             </p>
           </div>
-        </div>
-      </div>
+        </header>
+      </section>
 
-      <div className=" hero bg-yellow-400">
-        <div className="hero-content text-center">
+      <section className=" hero bg-yellow-400">
+        <div className="hero-content text-center mt-5">
           <div className="mt-5">
             <h1 className="text-xl lg:text-2xl xl:text-3xl font-bold text-gray-800">
               <span className="text-red-700">12 Tahun</span> Berdiri: Gerai
@@ -28,7 +28,7 @@ const Panglima = () => {
               <div className="flex">
                 <img
                   className="h-28 lg:h-40"
-                  src="https://panglimaroqiiqu-group.co.id/wp-content/uploads/2024/06/keunggulan-home-1.png"
+                  src="assets/keunggulan-home-1.png"
                 />
                 <div className="bg-[#a42023] ml-4 p-3 rounded-[30px] text-white">
                   <h6 className="font-bold text-xl mb-1">Alami</h6>
@@ -42,7 +42,7 @@ const Panglima = () => {
               <div className="flex">
                 <img
                   className="h-28 lg:h-40"
-                  src="https://panglimaroqiiqu-group.co.id/wp-content/uploads/2024/06/keunggulan-home-3.png"
+                  src="assets/keunggulan-home-3.png"
                 />
                 <div className="bg-[#a42023] ml-4 p-3 rounded-[30px] text-white">
                   <h6 className="font-bold text-xl mb-1">Berkualitas Tinggi</h6>
@@ -56,7 +56,7 @@ const Panglima = () => {
               <div className="flex ml-3">
                 <img
                   className="h-24 lg:h-36"
-                  src="https://panglimaroqiiqu-group.co.id/wp-content/uploads/2024/06/keunggulan-home-2.png"
+                  src="assets/keunggulan-home-2.png"
                 />
                 <div className="bg-[#a42023] ml-4 p-3 rounded-[30px] text-white">
                   <h6 className="font-bold text-xl">Pelayanan 24/7</h6>
@@ -70,9 +70,9 @@ const Panglima = () => {
             </div>
           </div>
         </div>
-      </div>
+      </section>
 
-      <div className="">
+      <section className="">
         <div className="hero min-h-screen">
           <div className="text-center">
             {/* Oleh-oleh Gerai Panglima */}
@@ -96,7 +96,7 @@ const Panglima = () => {
                     />
                   </figure>
                   <div className="">
-                    <h2 className="font-bold p-2 pt-2 lg:text-xl">
+                    <h2 className="font-bold p-2 pt-2 text-sm lg:text-base">
                       ROTI DURIAN ORIGINAL
                     </h2>
                     <div className="card-actions justify-center my-2">
@@ -118,7 +118,7 @@ const Panglima = () => {
                     />
                   </figure>
                   <div className="">
-                    <h2 className="font-bold p-2 pt-2 lg:text-xl">
+                    <h2 className="font-bold p-2 pt-2 text-sm lg:text-base">
                       ROTI DURIAN KEJU
                     </h2>
                     <div className="card-actions justify-center my-2">
@@ -140,7 +140,7 @@ const Panglima = () => {
                     />
                   </figure>
                   <div className="">
-                    <h2 className="font-bold p-2 pt-2 lg:text-xl">
+                    <h2 className="font-bold p-2 pt-2 text-sm lg:text-base">
                       PIE SUSU COKLAT
                     </h2>
                     <div className="card-actions justify-center my-2">
@@ -162,7 +162,7 @@ const Panglima = () => {
                     />
                   </figure>
                   <div className="">
-                    <h2 className="font-bold p-2 pt-2 lg:text-xl">
+                    <h2 className="font-bold p-2 pt-2 text-sm lg:text-base">
                       BROWNIES ALMOND
                     </h2>
                     <div className="card-actions justify-center my-2">
@@ -184,7 +184,7 @@ const Panglima = () => {
                     />
                   </figure>
                   <div className="">
-                    <h2 className="font-bold p-2 pt-2 lg:text-xl">
+                    <h2 className="font-bold p-2 pt-2 text-sm lg:text-base">
                       BOLU GULUNG COKLAT
                     </h2>
                     <div className="card-actions justify-center my-2">
@@ -220,7 +220,7 @@ const Panglima = () => {
                     />
                   </figure>
                   <div className="">
-                    <h2 className="font-bold p-2 pt-2 lg:text-xl">
+                    <h2 className="font-bold p-2 pt-2 text-sm lg:text-base">
                       Nasi Campur Ayam Cabe Hijau
                     </h2>
                     <div className="card-actions justify-center my-2">
@@ -242,7 +242,7 @@ const Panglima = () => {
                     />
                   </figure>
                   <div className="">
-                    <h2 className="font-bold p-2 pt-2 lg:text-xl">
+                    <h2 className="font-bold p-2 pt-2 text-sm lg:text-base">
                       Nasi Campur Ayam Cabe Hijau
                     </h2>
                     <div className="card-actions justify-center my-2">
@@ -264,7 +264,7 @@ const Panglima = () => {
                     />
                   </figure>
                   <div className="">
-                    <h2 className="font-bold p-2 pt-2 lg:text-xl">
+                    <h2 className="font-bold p-2 pt-2 text-sm lg:text-base">
                       Nasi Campur Ayam Cabe Hijau
                     </h2>
                     <div className="card-actions justify-center my-2">
@@ -286,7 +286,7 @@ const Panglima = () => {
                     />
                   </figure>
                   <div className="">
-                    <h2 className="font-bold p-2 pt-2 lg:text-xl">
+                    <h2 className="font-bold p-2 pt-2 text-sm lg:text-base">
                       Nasi Campur Ayam Cabe Hijau
                     </h2>
                     <div className="card-actions justify-center my-2">
@@ -308,7 +308,7 @@ const Panglima = () => {
                     />
                   </figure>
                   <div className="">
-                    <h2 className="font-bold p-2 pt-2 lg:text-xl">
+                    <h2 className="font-bold p-2 pt-2 text-sm lg:text-base">
                       Nasi Campur Ayam Cabe Hijau
                     </h2>
                     <div className="card-actions justify-center my-2">
@@ -325,7 +325,7 @@ const Panglima = () => {
             </div>
           </div>
         </div>
-      </div>
+      </section>
       <div></div>
     </>
   );

@@ -11,7 +11,7 @@ const GeraiPanglima = () => {
           <figur className="flex items-center">
             <img
               className="w-60 lg:w-96"
-              src="https://raw.githubusercontent.com/Syafar44/assets/main/assets/image/LOGO%20GERAI%20PANGLIMA-02.png"
+              src="assets/logo/LOGO-GERAI-PANGLIMA-02.jpg"
             />
           </figur>
         </header>
@@ -53,7 +53,7 @@ const GeraiPanglima = () => {
         <div className="lg:hero my-4 lg:my-20">
           <div className="hero-content flex-col lg:flex-row">
             <img
-              src="https://panglimaroqiiqu-group.co.id/wp-content/uploads/2024/06/img-gembung.png"
+              src="assets/img-gembung.png"
               className="lg:max-w-sm"
             />
             <div>
