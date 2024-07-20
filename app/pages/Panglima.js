@@ -179,13 +179,13 @@ const Panglima = () => {
                   <figure>
                     <img
                       className="h-56 scale-150"
-                      src="assets/produk/BOLU-GULUNG.jpg"
+                      src="assets/produk/BOLU-GULUNG-COKLAT.jpg"
                       alt="Roti Durian Panglima"
                     />
                   </figure>
                   <div className="">
                     <h2 className="font-bold p-2 pt-2 lg:text-xl">
-                      BOLU GULUNG
+                      BOLU GULUNG COKLAT
                     </h2>
                     <div className="card-actions justify-center my-2">
                       <Link
